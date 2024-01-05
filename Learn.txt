@@ -1,0 +1,5 @@
+what is redux
+what is redux tool kit
+what is redux persist
+useMemo
+useSlectore
