@@ -49,7 +49,7 @@ Explore Sociogram live at [https://socialmedia-46e49.web.app/](https://socialmed
     cd client && npm install
     cd ../server && npm install
 
-    cd server && node inde.js
+    cd server && node index.js
     cd client && npm start
    ```
 
